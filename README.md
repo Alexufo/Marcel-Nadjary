@@ -1,7 +1,7 @@
 # Marcel-Nadjary
 Marcel Nadjari's manuscript was found in 1980 near crematorium III in Auschwitz-Birkenau and recovered by me in 2017.
 
-##Technics demonstration of recovering text from old manuscripts from RGB image.
+## Technics demonstration of recovering text from old manuscripts from RGB image.
 
 1. Black&White filter
 3. HighPass filter
